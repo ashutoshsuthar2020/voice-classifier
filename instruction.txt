@@ -1,0 +1,6 @@
+Instructions
+
+For this sample data n = 2.
+files with name "audio_class_i.wav" (i = 1,2,3, ... n) are for training purpose.
+A file with name "test_audio.wav" is provided in this folder, that have n person voices. 
+you need to convert this audiofile into text format as mention in problem statemnet.
