@@ -1,5 +1,15 @@
 # voice-classifier
+
+
+
+**Problem statement** :* After the cruel invasion of aliens on earth we lost all the humankind and only India remains uninvaded. In order to save the earth from the aliens attack we have to know their plans; our brave warriors had finally set a device in alien camp to know their plans but aliens found them and executed our bravest warriors, but their act of valour had impressed the gods and by their grace the device is exactly hidden in the main quarters of aliens, we are waiting to know their plan, after hours we heard the voice of those beasts and their plan to destroy the earth.
+
+Now we are decoding it to know their plan and attack them as one last chance to save the humankind, to save the mother earth form the aliens.
+
+
+
 Librosa is a Python package for analyzing and processing audio signals. It provides a variety of tools for extracting features from audio data, which can be used as input to a classification model. Here are the general steps to create a classification model using Librosa:
+
 ```
     - Load the audio data: Use the librosa.load() function to load the audio file into a numpy array, along with its sampling rate.
 
